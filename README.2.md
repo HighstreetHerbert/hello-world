@@ -1,0 +1,1 @@
+Second text file with installation hints.
